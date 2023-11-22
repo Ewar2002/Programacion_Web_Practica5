@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+body{
+    font-family: 'Titan One', sans-serif !important;
+}
+header{
+    background-color: rgb(76, 180, 250) !important;
+    color: black !important;
+    font-size: 17pt;  
+}
+header .navbar-brand{
+    font-size: 35px;
+    color: aliceblue;
+    
+}
+header .navbar-brand:hover{
+    color: aliceblue;
+}
+main #Overflow{
+    background-image: url(../img/img1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+}
+main #Overflow h1,main #Overflow h3{
+    color: rgb(255, 255, 255) !important;
+}
+footer{
+    justify-content: center;
+    background-color: rgb(76, 180, 250);  
+    padding: 5.7pt;
+    color: black !important;
+}
